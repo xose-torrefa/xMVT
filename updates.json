@@ -13,6 +13,10 @@
           {
             "version": "1.1.4",
             "update_link": "https://github.com/xose-torrefa/xMVT-updates/raw/main/versions/58a514c14b5349a39f54-1.1.4.xpi"
+          },
+          {
+            "version": "1.1.5",
+            "update_link": "https://github.com/xose-torrefa/xMVT-updates/raw/main/versions/58a514c14b5349a39f54-1.1.5.xpi"
           }
         ]
       }
